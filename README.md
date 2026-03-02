@@ -102,7 +102,7 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MOULISIVAMSARAVANAN&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-SIVAM&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 ---
@@ -110,7 +110,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MOULISIVAMSARAVANAN&theme=react-dark&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-SIVAM&theme=react-dark&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&hide_border=true" />
 </p>
 
 ---

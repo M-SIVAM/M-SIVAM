@@ -1,16 +1,22 @@
-## Hi there 👋
+<!-- ============================= -->
+<!-- 🔥 MOULI SIVAM S - DARK HACKER PROFILE -->
+<!-- ============================= -->
 
-<!--
-**M-SIVAM/M-SIVAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF41&size=35&center=true&vCenter=true&width=800&lines=MOULI+SIVAM+S;Artificial+Intelligence+%26+Data+Science+Engineer;Full+Stack+Developer;Building+Smart+Systems+with+Code;Welcome+to+My+Digital+Universe" />
+</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MOULISIVAMSARAVANAN&label=Profile+Views&color=00ff41&style=flat" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 ABOUT ME
+
+```diff
++ Full Name : MOULI SIVAM S
++ Location  : Dindigul, Tamil Nadu, India 🇮🇳
++ Degree    : B.Tech - Artificial Intelligence and Data Science
++ College   : M.Kumarasamy College of Engineering
++ Role      : Student | AI Developer | Full Stack Builder
